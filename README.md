@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Joyce 
 
-<!--
-**joyce-d3v/joyce-d3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | HTML • CSS • JavaScript
 
-Here are some ideas to get you started:
+I enjoy building clean, responsive user interfaces and learning modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+Fintech Dashboard  
+A modern dashboard interface showing financial statistics and transactions.
+
+Task Manager (CRUD App)  
+A simple application that allows users to add and delete tasks using JavaScript.
+
+Responsive Landing Page  
+A mobile friendly product landing page designed with modern UI principles.
+
+## Skills
+
+HTML  
+CSS  
+JavaScript  
+Python  
+
+## Contact
+
+Email: aneneojoyce@gmail.com
